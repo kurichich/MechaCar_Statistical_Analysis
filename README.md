@@ -11,7 +11,13 @@
   ![image](https://user-images.githubusercontent.com/98435855/168516056-2a6fcbe3-1b7a-429c-94ba-8e9cfbb06da3.png)
 
   
+## Summary Statistics on Suspension Coils
+  The variance in lots 1 and 2 are under 10 PSI so there is no significant deviation from the specs.  However, lot 3 has a high variance and we would recommend a redesign to bring the prototype vehicle into spec.
   
+  ![image](https://user-images.githubusercontent.com/98435855/168522288-eadbd59c-b8e1-4c38-bd88-7a718c602b48.png)
+
+  ![image](https://user-images.githubusercontent.com/98435855/168522746-9abccfab-5a5e-47a2-b5a8-b321cf88043c.png)
+
 
 
 
